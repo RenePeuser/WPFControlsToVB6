@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WPFControlsToVB6", "WPFControlsToVB6\WPFControlsToVB6.vbproj", "{8BB03BC3-A0F7-4C84-8447-DBA2D6A53AC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BB03BC3-A0F7-4C84-8447-DBA2D6A53AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB03BC3-A0F7-4C84-8447-DBA2D6A53AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB03BC3-A0F7-4C84-8447-DBA2D6A53AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB03BC3-A0F7-4C84-8447-DBA2D6A53AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
